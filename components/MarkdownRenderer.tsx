@@ -97,7 +97,7 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
           th: ({ children, ...props }) => {
             const index = props['data-index']
             return (
-              <th className={`bg-brand-turquoise text-white px-4 py-2 text-left font-bold whitespace-nowrap ${index === 0 ? 'min-w-[300px]' : ''}`}>
+              <th className={`bg-brand-turquoise text-white px-4 py-2 text-left font-bold whitespace-nowrap ${index === 0 ? 'min-w-[350px]' : ''}`}>
                 {children}
               </th>
             )
@@ -105,7 +105,7 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
           td: ({ children, ...props }) => {
             const index = props['data-index']
             return (
-              <td className={`border border-gray-200 px-4 py-2 align-top ${index === 0 ? 'min-w-[300px] font-semibold' : ''}`}>
+              <td className={`border border-gray-200 px-4 py-2 align-top ${index === 0 ? 'min-w-[350px] font-semibold' : ''}`}>
                 {children}
               </td>
             )
