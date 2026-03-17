@@ -107,8 +107,9 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
             return (
               <td className={`border border-gray-200 px-4 py-2 align-top ${index === 0 ? 'min-w-[200px] font-semibold' : ''}`}>
                 {children}
-            </td>
-          ),
+              </td>
+            )
+          },
           img: ({ src, alt }) => (
             <img src={src} alt={alt} className="rounded-xl shadow-lg my-4 max-w-full" />
           ),
