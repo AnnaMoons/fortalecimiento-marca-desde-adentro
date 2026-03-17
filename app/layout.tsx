@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Documentación - Desde Adentro',
+  title: 'Documentación',
   description: 'Visualizador de documentación',
 }
 

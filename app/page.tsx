@@ -93,7 +93,7 @@ export default function HomePage() {
       <div className="max-w-4xl mx-auto px-4">
         <header className="text-center mb-12">
           <h1 className="text-4xl font-bold text-brand-turquoise mb-4">
-            Documentación Desde Adentro
+            Documentación
           </h1>
           <p className="text-lg text-gray-600">
             Análisis de marca y herramientas estratégicas
