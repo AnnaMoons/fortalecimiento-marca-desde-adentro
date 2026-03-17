@@ -1,4 +1,4 @@
-# MT 2. The Feel Map - Desde Adentro
+# MT 2. The Feel Map
 
 ## Mapa de sensaciones y emociones de marca
 

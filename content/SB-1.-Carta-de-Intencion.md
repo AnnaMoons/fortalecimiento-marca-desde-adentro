@@ -1,4 +1,4 @@
-# SB 1. Carta de Intención - Desde Adentro
+# SB 1. Carta de Intención
 
 
 ## **CARTA DE INTENCIÓN ESTRATÉGICA**

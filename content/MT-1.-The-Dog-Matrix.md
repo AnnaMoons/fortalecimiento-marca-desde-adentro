@@ -1,4 +1,4 @@
-# MT 1. The Dog Matrix - Desde Adentro
+# MT 1. The Dog Matrix
 
 ## **The guy / El cliente (quien compra)**
 

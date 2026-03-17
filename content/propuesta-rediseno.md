@@ -1,4 +1,4 @@
-# PROPUESTA DETALLADA: Rediseño Web Desde Adentro
+# PROPUESTA DETALLADA: Rediseño Web
 ##Marketplace Emocional con Enganche desde el Contenido
 
 **Fecha:** Febrero 2025  

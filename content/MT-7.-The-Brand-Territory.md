@@ -1,4 +1,4 @@
-# MT 7. The Brand Territory - Desde Adentro
+# MT 7. The Brand Territory
 
 ## Territorio de marca
 

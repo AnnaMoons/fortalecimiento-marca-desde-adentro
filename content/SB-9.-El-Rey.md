@@ -1,4 +1,4 @@
-# SB 9. El Rey - Desde Adentro
+# SB 9. El Rey
 
 
 ## **EL REY (LIDERAZGO DE MARCA)**

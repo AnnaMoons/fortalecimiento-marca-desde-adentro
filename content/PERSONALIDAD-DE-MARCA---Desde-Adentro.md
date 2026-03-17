@@ -1,4 +1,4 @@
-# PERSONALIDAD DE MARCA - Desde Adentro
+# PERSONALIDAD DE MARCA
 
 ##Ejercicio de Personificación de Marca
 

@@ -1,4 +1,4 @@
-# MT 8. ABC Roll Axis - Desde Adentro
+# MT 8. ABC Roll Axis
 
 ## Eje Roll ABC
 

@@ -1,4 +1,4 @@
-# MT 3. Brand Desire Canvas - Desde Adentro
+# MT 3. Brand Desire Canvas
 
 ## Canvas de deseo de marca
 

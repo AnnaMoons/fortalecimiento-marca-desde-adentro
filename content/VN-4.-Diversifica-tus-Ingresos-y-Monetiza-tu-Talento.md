@@ -1,4 +1,4 @@
-# VN 4. Diversifica tus Ingresos y Monetiza tu Talento - Desde Adentro
+# VN 4. Diversifica tus Ingresos y Monetiza tu Talento
 
 
 ## **DIVERSIFICACIÓN DE INGRESOS**

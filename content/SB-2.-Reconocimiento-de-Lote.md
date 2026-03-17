@@ -1,4 +1,4 @@
-# SB 2. Reconocimiento de Lote - Desde Adentro
+# SB 2. Reconocimiento de Lote
 
 
 ## **RECONOCIMIENTO DE LOTE ESTRATÉGICO**

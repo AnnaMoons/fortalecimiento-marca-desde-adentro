@@ -1,4 +1,4 @@
-# MT 4. Attitudinal Journey - Desde Adentro
+# MT 4. Attitudinal Journey
 
 ## Viaje de actitudes del cliente
 

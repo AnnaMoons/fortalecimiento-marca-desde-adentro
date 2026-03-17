@@ -1,4 +1,4 @@
-# SB 8. Brand Building vs. Sales Activation - Desde Adentro
+# SB 8. Brand Building vs. Sales Activation
 
 
 ## **BRAND BUILDING vs. SALES ACTIVATION**

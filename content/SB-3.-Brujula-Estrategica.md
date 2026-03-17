@@ -1,4 +1,4 @@
-# SB 3. Brújula Estratégica - Desde Adentro
+# SB 3. Brújula Estratégica
 
 
 ## **BRÚJULA ESTRATÉGICA**

@@ -1,4 +1,4 @@
-# VN 3. Diversifica tus Objetivos, Visibilidad y Comunicación - Desde Adentro
+# VN 3. Diversifica tus Objetivos, Visibilidad y Comunicación
 
 
 ## **DIVERSIFICACIÓN ESTRATÉGICA**

@@ -1,4 +1,4 @@
-# MT 6. MaxPyramid - Desde Adentro
+# MT 6. MaxPyramid
 
 ## Pirámide Max - Jerarquía de necesidades de marca
 

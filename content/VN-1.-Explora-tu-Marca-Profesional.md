@@ -1,4 +1,4 @@
-# VN 1. Explora tu Marca profesional - Desde Adentro
+# VN 1. Explora tu Marca profesional
 
 
 ## **EXPLORACIÓN DE MARCA PROFESIONAL**

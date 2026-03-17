@@ -1,4 +1,4 @@
-# SB 4. Lista Negra de Pérdidas Innegociables - Desde Adentro
+# SB 4. Lista Negra de Pérdidas Innegociables
 
 
 ## **LISTA NEGRA - LO QUE NUNCA PERDEREMOS**

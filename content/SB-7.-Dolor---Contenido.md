@@ -1,4 +1,4 @@
-# SB 7. Dolor + Contenido - Desde Adentro
+# SB 7. Dolor + Contenido
 
 
 ## **DOLOR + CONTENIDO**

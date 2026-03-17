@@ -1,4 +1,4 @@
-# MT 9. Revolution Matrix - Desde Adentro
+# MT 9. Revolution Matrix
 
 ## Matriz de revolución
 

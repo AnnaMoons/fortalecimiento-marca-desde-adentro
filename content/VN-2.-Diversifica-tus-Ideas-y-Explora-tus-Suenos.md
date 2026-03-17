@@ -1,4 +1,4 @@
-# VN 2. Diversifica tus Ideas y Explora tus Sueños - Desde Adentro
+# VN 2. Diversifica tus Ideas y Explora tus Sueños
 
 
 ## **DIVERSIFICACIÓN DE IDEAS Y SUEÑOS**

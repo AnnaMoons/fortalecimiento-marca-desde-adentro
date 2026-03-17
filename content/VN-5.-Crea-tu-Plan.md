@@ -1,4 +1,4 @@
-# VN 5. Crea tu Plan - Desde Adentro
+# VN 5. Crea tu Plan
 
 
 ## **PLAN ESTRATÉGICO DESDE ADENTRO**

@@ -1,4 +1,4 @@
-# User Persona Template — Desde Adentro
+# User Persona Template
 
 **Marca:** Desde Adentro
 **Propósito:** Definir perfiles detallados de mamás/papás para estrategias de marca, contenido y producto

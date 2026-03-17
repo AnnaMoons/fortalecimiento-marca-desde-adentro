@@ -1,4 +1,4 @@
-# SB 5. Mapa de Fugas - Desde Adentro
+# SB 5. Mapa de Fugas
 
 
 ## **MAPA DE FUGAS (Leakage Map)**

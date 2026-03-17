@@ -1,4 +1,4 @@
-# MT 5. The Brand Ego - Desde Adentro
+# MT 5. The Brand Ego
 
 ## El ego de marca
 

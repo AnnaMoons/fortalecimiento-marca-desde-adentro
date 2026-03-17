@@ -1,4 +1,4 @@
-# SB 6. Canvas - A la Gente Como Nosotros - Desde Adentro
+# SB 6. Canvas - A la Gente Como Nosotros
 
 
 ## **CANVAS "GENTE COMO NOSOTROS"**
