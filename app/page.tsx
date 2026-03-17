@@ -1,4 +1,4 @@
-import { getAllMarkdownDocuments } from '@/lib/markdown'
+import { getAllMarkdownDocuments, type MarkdownDocument } from '@/lib/markdown'
 import CollapsibleCategories from '@/components/CollapsibleCategories'
 
 function extractNumber(slug: string): number {
@@ -6,7 +6,7 @@ function extractNumber(slug: string): number {
   return match ? parseInt(match[1], 10) : 999
 }
 
-function sortByNumber(docs: typeof allDocuments) {
+function sortByNumber(docs: MarkdownDocument[]) {
   return [...docs].sort((a, b) => extractNumber(a.slug) - extractNumber(b.slug))
 }
 
