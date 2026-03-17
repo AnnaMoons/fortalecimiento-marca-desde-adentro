@@ -82,7 +82,6 @@ const docIcons: Record<string, string> = {
   'Rey': '👑',
   'Explora': '🔭',
   'Diversifica': '📈',
-  'Crea tu Plan': '📅',
 }
 
 function getDocIcon(slug: string, title: string): string {
